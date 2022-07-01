@@ -1,3 +1,3 @@
 <template>
-    Halaman Utama aaaaa
+  <div></div>
 </template>
